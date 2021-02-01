@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T16:51:47.411Z" agent="5.0 (Windows)" version="14.2.9" etag="9IBvjQ6127tYERsCOPgC" type="github"><diagram id="9p2p5-aNHRqqLyHfe7tM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-01T16:56:15.456Z" agent="5.0 (Windows)" etag="9TdHrvAmjyEDmDpDO52c" version="14.2.9" type="github">
+  <diagram id="9p2p5-aNHRqqLyHfe7tM" name="Page-1">
+    <mxGraphModel dx="2062" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fbAaycHLkEZz05eTZ3pW-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fbAaycHLkEZz05eTZ3pW-6" value="Card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fbAaycHLkEZz05eTZ3pW-11">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fbAaycHLkEZz05eTZ3pW-7" value="&lt;div align=&quot;left&quot;&gt;Face value&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Suit&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="fbAaycHLkEZz05eTZ3pW-11">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fbAaycHLkEZz05eTZ3pW-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="150" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fbAaycHLkEZz05eTZ3pW-4" value="Deck" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fbAaycHLkEZz05eTZ3pW-12">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fbAaycHLkEZz05eTZ3pW-10" value="&lt;div&gt;Cards left&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Shuffle&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="fbAaycHLkEZz05eTZ3pW-12">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
